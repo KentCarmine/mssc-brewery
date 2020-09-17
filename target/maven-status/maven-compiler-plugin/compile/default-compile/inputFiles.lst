@@ -6,6 +6,8 @@ D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-brewer
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-brewery\src\main\java\guru\springframework\msscbrewery\web\model\v2\BeerDtoV2.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-brewery\src\main\java\guru\springframework\msscbrewery\web\model\v2\BeerStyleEnum.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-brewery\src\main\java\guru\springframework\msscbrewery\services\CustomerServiceImpl.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-brewery\src\main\java\guru\springframework\msscbrewery\domain\Customer.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-brewery\src\main\java\guru\springframework\msscbrewery\web\mappers\CustomerMapper.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-brewery\src\main\java\guru\springframework\msscbrewery\services\BeerService.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-brewery\src\main\java\guru\springframework\msscbrewery\services\CustomerService.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-brewery\src\main\java\guru\springframework\msscbrewery\services\v2\BeerServiceV2Impl.java
